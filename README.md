@@ -86,7 +86,7 @@ Conquistar minha primeira oportunidade como Desenvolvedor Full Stack Júnior e c
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="www.linkedin.com/in/felipe-manzelli-81b053115">
+  <a href="www.linkedin.com/in/felipemanzelli">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
