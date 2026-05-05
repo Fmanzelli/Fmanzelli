@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um Desenvolvedor Web em transição de carreira, apaixonado por resolver problemas reais através do código. Atualmente baseado em Curitiba (PR) e recém-formado em Desenvolvimento Full Stack pela **Harve Escola de Tecnologia**.
+Sou um Desenvolvedor Web em transição de carreira, apaixonado por resolver problemas reais através do código. Atualmente baseado em Curitiba (PR).
 
 - 🎯 **Foco atual:** Buscando minha primeira oportunidade corporativa como Dev Júnior, com um olhar especial para o **Back-end** e arquitetura de APIs.
 - 🛵 **Minha jornada:** Nos últimos dois anos atuei como motoboy autônomo. Essa experiência me ensinou na prática o que é resiliência, gestão de tempo sob pressão e foco na entrega.
