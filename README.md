@@ -40,7 +40,7 @@ Sou um Desenvolvedor Web em transição de carreira, apaixonado por resolver pro
 
 Aqui estão algumas das soluções práticas em que estou trabalhando:
 
-### 🍔 [JeyFoods](https://github.com/Fmanzelli) *(https://github.com/Fmanzelli/JeyFoodsAI)*
+### 🍔 [JeyFoods](https://github.com/Fmanzelli) *(https://jey-foods-ai.vercel.app/)*
 Desenvolvimento do site e vitrine digital para uma marca local de gastronomia. O projeto foca em organizar o menu e facilitar o contato direto com o cliente.
 > **Techs:** React.js, CSS, Node.js
 
