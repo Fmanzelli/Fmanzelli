@@ -44,7 +44,7 @@ Aqui estão algumas das soluções práticas em que estou trabalhando:
 Desenvolvimento do site e vitrine digital para uma marca local de gastronomia. O projeto foca em organizar o menu e facilitar o contato direto com o cliente.
 > **Techs:** React.js, CSS, Node.js
 
-### 📖 [Receita Certa](https://github.com/Fmanzelli) *(https://github.com/Fmanzelli/Projeto-Receita-certa)*
+### 📖 [Receita Certa](https://github.com/Fmanzelli) *(https://projeto-receita-certa.vercel.app)*
 Um sistema focado na organização e gerenciamento de receitas culinárias. Projetado para exercitar lógica de programação, estruturação de dados e integração.
 > **Techs:** HTML, CSS, JavaScript
 
