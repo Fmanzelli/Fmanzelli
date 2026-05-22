@@ -3,19 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Foco+em+soluções+Back-end;Construindo+projetos+reais;Transformando+lógica+em+código🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Praticando+soluções+Full-Stack;Construindo+projetos+reais;Transformando+lógica+em+código🚀" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um Desenvolvedor Web em transição de carreira, apaixonado por resolver problemas reais através do código. Atualmente baseado em Curitiba (PR).
+Sou um Desenvolvedor Web em transição de carreira, focado em resolver problemas práticos através do código. Atualmente baseado em Curitiba (PR).
 
-- 🎯 **Foco atual:** Buscando minha primeira oportunidade corporativa como Dev Júnior, com um olhar especial para o **Back-end** e arquitetura de APIs.
-- 🛵 **Minha jornada:** Nos últimos dois anos atuei como motoboy autônomo. Essa experiência me ensinou na prática o que é resiliência, gestão de tempo sob pressão e foco na entrega.
-- 💡 **O que estou construindo:** Não espero a oportunidade chegar para começar a programar. Já desenvolvo sistemas para o setor gastronômico (**JeyFoods**) e gestão de conteúdo (**Receita Certa**).
-- 🌱 **Estudando:** Aprofundando meus fundamentos em JavaScript e boas práticas com Node.js e React.
+- 🎯 **Foco atual:** Buscando minha primeira oportunidade como Dev Júnior, com foco em consolidar meus conhecimentos em desenvolvimento Full-Stack (React, Node.js e bancos relacionais).
+- 🛵 **Minha jornada:** Nos últimos dois anos atuei como motoboy autônomo. Essa experiência me ensinou na prática o que é resiliência, gestão de tempo sob pressão, adaptabilidade e foco na entrega.
+- 💡 **O que estou construindo:** Acredito que a melhor forma de aprender é resolvendo dores reais. Desenvolvo soluções para comércios locais e sistemas voltados para a gestão gastronômica.
+- 🌱 **Estudando:** Aprofundando meus fundamentos no ecossistema JavaScript, boas práticas de arquitetura de APIs REST com Node.js/Express e criação de interfaces reativas em React.
 
 ---
 
@@ -24,13 +24,13 @@ Sou um Desenvolvedor Web em transição de carreira, apaixonado por resolver pro
 <div align="center">
 
 ### 💻 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-### ⚙️ Back-end
-<img src="https://skillicons.dev/icons?i=nodejs,java" />
+### ⚙️ Back-end & 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=nodejs,mysql" />
 
-### 🗄️ Banco de Dados & 🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -38,15 +38,15 @@ Sou um Desenvolvedor Web em transição de carreira, apaixonado por resolver pro
 
 ## 📌 Projetos em destaque
 
-Aqui estão algumas das soluções práticas em que estou trabalhando:
+Aqui estão as soluções práticas que desenvolvi para consolidar meus estudos:
 
-### 🍔 [JeyFoods](https://github.com/Fmanzelli) *(https://jey-foods-ai.vercel.app/)*
-Desenvolvimento do site e vitrine digital para uma marca local de gastronomia. O projeto foca em organizar o menu e facilitar o contato direto com o cliente.
-> **Techs:** React.js, CSS, Node.js
+### 🍔 [JeyFoods](https://jey-foods-ai.vercel.app/)
+Desenvolvimento de um site institucional e vitrine digital para uma marca real de confeitaria. O foco do projeto foi praticar princípios de UI/UX, responsividade e otimização para direcionamento de clientes para canais de venda direta.
+> **Techs:** React.js, Vite, CSS3, Node.js
 
-### 📖 [Receita Certa](https://github.com/Fmanzelli) *(https://projeto-receita-certa.vercel.app)*
-Um sistema focado na organização e gerenciamento de receitas culinárias. Projetado para exercitar lógica de programação, estruturação de dados e integração.
-> **Techs:** HTML, CSS, JavaScript
+### 🍳 [Receita Certa](https://projeto-receita-certa.vercel.app)
+Um sistema SaaS voltado para a gestão de insumos e cálculo automatizado de custos gastronômicos. Desenvolvido para exercitar lógica de programação complexa, tabelas relacionais (MySQL) e o conceito industrial de sub-receitas (BOM).
+> **Techs:** React.js, Node.js, Express, MySQL
 
 ---
 
